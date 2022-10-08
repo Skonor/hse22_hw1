@@ -87,7 +87,7 @@ platanus scaffold -o Poil -c Poil_contig.fa -IP1 bonus_sub_oilR1.fastq.trimmed b
 platanus gap_close -o Poil -c Poil_scaffold.fa -IP1 bonus_sub_oilR1.fastq.trimmed bonus_sub_oilR2.fastq.trimmed -OP2 bonus_sub_oilMP_R1.fastq.int_trimmed bonus_sub_oilMP_R2.fastq.int_trimmed 2> bonus_gapclose.log
 ```
 
-
+[Jupyter notebook](src/bioinf_hw1.ipynb) 
 
 
 
